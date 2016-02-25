@@ -12,6 +12,10 @@
 
 MIT. See [LICENSE](http://github.com/01org/tinycbor/blob/master/LICENSE).
 
+## The Commit
+
+[629d5b7](https://github.com/01org/tinycbor/commit/629d5b7)
+
 ## Timeline
 
 *   Started: 2016-02-23
