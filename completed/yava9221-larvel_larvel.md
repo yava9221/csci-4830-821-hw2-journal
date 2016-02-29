@@ -1,4 +1,4 @@
-# Contributing to play
+# Contributing to laravel
 
 ## Author
 
@@ -6,7 +6,7 @@
 
 ## The Project
 
-[larvel/larvel](https://github.com/larvel/larvel)
+[laravel/laravel](https://github.com/laravel/laravel)
 
 ## License
 
@@ -21,7 +21,7 @@ MIT. See [LICENSE](http://github.com/01org/tinycbor/blob/master/LICENSE).
 *   Started: 2016-02-29
 *   Completed: 2016-02-29
 
-The non-technical work took about 20 minutes. I already knew of an open source project that I use.
+The non-technical work took about 10 minutes. I already knew of an open source project that I use.
 The technical work took about an hour; originally I wanted to see if I could make a minor change to their code, 
 but that ended up taking a lot more time than I would have liked. I ended up checking for grammer in the readme file.
 
@@ -35,5 +35,5 @@ I changed the sentence flow in a section of the readme file. It was redundant an
 
 *   2016-02-29: Filed a [pull request](https://github.com/laravel/laravel/pull/3675) to take out a word.
 
-*   2016-02-29: I use Larvel, which is a PHP web app framework, for some work I do. Since it is open source, it didn't take me long
+*   2016-02-29: I use Laravel, which is a PHP web app framework, for some work I do. Since it is open source, it didn't take me long
                 to find a project that I wanted to work on. 
