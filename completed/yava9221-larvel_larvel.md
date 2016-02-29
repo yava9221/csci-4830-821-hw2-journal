@@ -10,7 +10,7 @@
 
 ## License
 
-MIT. See [LICENSE](http://github.com/01org/tinycbor/blob/master/LICENSE).
+MIT. See [LICENSE](https://opensource.org/licenses/MIT).
 
 ## The Commit
 
