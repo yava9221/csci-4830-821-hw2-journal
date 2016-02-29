@@ -28,7 +28,7 @@ but that ended up taking a lot more time than I would have liked. I ended up che
 
 ## The Change
 
-I changed the sentence flow in a section of the readme file. It was redundant and I wanted it to flow better. 
+I changed the sentence flow in a section of the readme.md file by taking out a word because it was redundant. 
 ## Progress
 
 *   2016-02-29: The [merge](https://github.com/laravel/laravel/commit/fc12337663642b626de0e8c2e7f728f3e6f2208e) went through within a few minutes. 
